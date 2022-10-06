@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chaban Serhii
+- 👋 Hi, I’m Serhii
 
 
 <!---
